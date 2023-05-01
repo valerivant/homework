@@ -1,4 +1,4 @@
-"""add caps_text_func"""
+"""add func upper_text"""
 
 
 def caps_text(value):
